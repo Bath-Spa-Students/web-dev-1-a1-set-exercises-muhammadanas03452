@@ -1,0 +1,155 @@
+body{
+    background-image: url("bckpic.jpg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+}
+
+
+.navbar {
+    background-color: #b91f1f; 
+    color: rgb(0, 0, 0); 
+    padding: 10px 25px; 
+    width: 100%; 
+    position: fixed; 
+    top: 0;
+    left: 0; 
+    z-index: 1000; 
+    opacity: 0.7;
+}
+.title{
+    text-align: center;
+    margin-top: 30;
+    font-family: monospace;
+}
+
+.recipic{
+    width: 500px;
+    height: 330px;
+   display: block;
+   margin: 0 auto;
+   position: absolute;
+   top: 300px;
+   left: 90px;
+   border-style: inset;
+   border-width: 4px;
+   border-color: #006400;
+   transition: 0.8s;
+   
+}
+.btn{
+    position: absolute;
+    top: 680px;
+    left: 160px;
+}
+.btn{
+   
+    border: none;
+    background: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: monospace;
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: relative;
+    overflow: hidden;
+    
+}
+.btn{
+    color: #b91f1f;
+    background-color: black;
+}
+.btn:hover{
+    background-color: #b91f1f;
+    
+}
+.btn:hover{
+    color: black;
+}
+
+.ing{
+    color: #d3c6c6;
+    position: absolute;
+    top: 500px;
+    left: 50px;
+}
+.recipic:hover{
+    width: 550px;
+    height: 370px;
+
+}
+.head1{
+    position: absolute;
+    top: 200px;
+    right: 1070px;
+    color: #ec2b2b;
+    font-family: monospace;
+    font-size: 25px;
+    text-decoration: underline;
+}
+.iner1{
+    color: #eeebeb;
+    position: absolute;
+    right: 775px;
+    top: 260px;
+    font-family: monospace;
+    font-size: 22px;
+}
+.vertical-line {
+    border-left: 3px solid #ec2b2b; 
+    height: 350px;
+    position: absolute;
+    right: 760px;
+    top: 265px;
+  }
+  .head2{
+    position: absolute;
+    top: 200px;
+    right: 500px;
+    color: #ec2b2b;
+    font-family: monospace;
+    font-size: 25px;
+    text-decoration: underline;
+  }
+  .iner2{
+    color: #eeebeb;
+    position: absolute;
+    right: 30px;
+    top: 260px;
+    font-family: monospace;
+    font-size: 20px;
+  }
+.inersize{
+    font-size: 28px;
+}
+.notice{
+    position: absolute;
+    top: 640px;
+    right: 720px;
+    color: #ec2b2b;
+    font-family: monospace;
+    font-size: 25px;
+    text-decoration: underline;
+
+}
+.iner3{
+    color: #eeebeb;
+    position: absolute;
+    right: 230px;
+    top: 700px;
+    font-family: monospace;
+    font-size: 20px;
+}
+.iner3S{
+    font-size: 17px;
+}
+.tag{
+    color: #b91f1f;
+    position: absolute;
+    top: 900px;
+    right: 925px;
+    font-size: 17px;
+    
+}
