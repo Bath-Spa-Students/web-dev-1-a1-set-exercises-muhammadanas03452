@@ -1,0 +1,102 @@
+@font-face {
+    font-family: custom;
+    src: url(font/Pacifico-Regular.ttf);
+}
+@font-face {
+    font-family: custom2;
+    src: url(static/Karla-Regular.ttf);
+}
+
+.head{
+    height: 200px;
+    width: 1920px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.hcontent{
+    color: #DBE7C9;
+    font-family: custom;
+    position: absolute;
+    top: 40px;
+    left: 840px;
+    text-decoration: underline;
+}
+.main{
+    background-color: #50623A;
+    height: 757px;
+    width: 1920px;
+    position: absolute;
+    top: 200px;
+    left: 0;
+    color: #DBE7C9;
+}
+.head2{
+    font-weight: bold;
+    line-height: 40px;
+    text-decoration: underline;
+
+}
+.para{
+    width: 1150px;
+    font-family: custom2;
+    font-size: 20px;
+    position: absolute;
+    left: 20px;
+}
+.main-img{
+    height: 510px;
+    width: 840px;
+    position: absolute;
+    left: 100px;
+    top: 250x;
+    border-style: groove;
+    border-color: #294B29;
+}
+.section{
+    height: 570px;
+    width: 540px;
+    background-color: #698155;
+    position: absolute;
+    top: 300px;
+    right: 0px;
+    border-style: solid;
+    border-color: #294B29;
+}
+.line-up{
+    font-family: custom2;
+    font-weight: bold;
+    position: absolute;
+    left: 30px;
+    color: #DBE7C9;
+    text-decoration: underline;
+
+}
+.list-content{
+    font-family: custom2;
+    position: absolute;
+    top: 100px;
+    left: 37px;
+    font-size: 24px;
+    color:  #DBE7C9 ;
+}
+.img2{
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    top: 300px;
+    left: 60px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 5px;
+}
+.img3{
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 5px;
+}
