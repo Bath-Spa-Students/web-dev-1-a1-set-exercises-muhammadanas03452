@@ -1,0 +1,37 @@
+@font-face {
+    font-family: my_custom;
+    src: url(font/Satisfy-Regular.ttf);
+}
+.part_1{
+    height: 911px;
+    width: 460px;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    bottom: 0%;
+    filter: brightness(90%);
+}
+.part_2{
+    height: 911px;
+    width: 1460px;
+    position: absolute;
+    top: 0%;
+    left: 460px;
+    bottom: 0%;
+    filter: brightness(80%);
+}
+.vid{
+    position: absolute;
+    left: 560px;
+    top: 100px;
+}
+h2{
+    color: #069767;
+    position: absolute;
+    top: 70px;
+    left: 100px;
+    font-family: my_custom;
+    font-weight: 100;
+    font-stretch: extra-expanded;
+    font-size: 40px;
+}

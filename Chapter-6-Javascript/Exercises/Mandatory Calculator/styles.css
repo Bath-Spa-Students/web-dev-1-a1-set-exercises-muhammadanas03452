@@ -1,0 +1,53 @@
+body{
+	background-image: url(img/images.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.container{
+	font-family: Arial, sans-serif;
+    max-width: 500px;
+    margin-top: 250px;
+	margin-left: 700px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(252, 0, 0, 0.1);
+	color: #551538;
+	background-color: #4793AF;
+}
+h1{
+	font-family: monospace;
+	margin-left: 115px;
+}
+
+input,
+button {
+    display: block;
+    width: 93%;
+    margin-bottom: 10px;
+	margin-left: 4px;
+    padding: 10px;
+    font-size: 19px;
+}
+
+input:focus,
+button:focus {
+    outline: none;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #db1a1a;
+    color: white;
+}
+
+#result {
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 25px;
+	margin-left: 20px;
+}
+.bckimg{
+	position: absolute;
+	top: 120px;
+	left: 650px;
+}
